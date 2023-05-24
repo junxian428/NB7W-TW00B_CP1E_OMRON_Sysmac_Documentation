@@ -10,3 +10,5 @@ COM2 (HMI)
 ![image](https://github.com/junxian428/NB7W-TW00B_CP1E_OMRON_Sysmac_Documentation/assets/58724748/53666744-11ea-4070-925e-cac08cec3ddf)
 
 COM PLC
+
+![image](https://github.com/junxian428/NB7W-TW00B_CP1E_OMRON_Sysmac_Documentation/assets/58724748/4b702423-7a2d-40dc-8c8a-6663c1fd38f8)
